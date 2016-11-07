@@ -99,7 +99,7 @@ commits startup founders to commit 2% of their personal proceeds from exit to th
 </div>
 </div>
 
-## Dysrationalia - Why smart people so stupid things
+## Dysrationalia - Why smart people do stupid things
 
 In his talk, <i>Lucius Caviola</i> will explain that IQ tests don't measure
 the amount of rational thinking and decision correctly.
